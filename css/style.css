@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+   
+}
+.i1{
+    color:rgb(255, 255, 255) ;
+   font-size: 35px;
+   padding:5px ;
+   
+}
+.alin{
+    display: block;
+}
+.a1{
+    color: aliceblue;
+    display: block;
+}
+.p1{
+    color: rgb(0, 0, 0);
+    opacity: 0.5;
+}
